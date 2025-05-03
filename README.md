@@ -54,13 +54,13 @@ git clone https://github.com/Kaustav-JB/3d-Model-Project.git
 cd 3d-Model-Project
 
 ### 2. Install Dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 > If you encounter Rust-related build issues, ensure you have cargo installed:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### 3. Run the Pipeline
-python main.py
+`python main.py`
 
 Then choose:
 
